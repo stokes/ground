@@ -27,7 +27,7 @@ With your permission, Ground can:
 Ground uses the front camera for vision-based rep counting. Camera data is processed in real-time on your device and is never stored or transmitted.
 
 ## Contact
-For questions about this privacy policy, contact: [your email]
+For questions about this privacy policy, contact: [ground.jujitsu423@passmail.net]
 
 ## Changes
 We may update this policy occasionally. Check back for updates.
